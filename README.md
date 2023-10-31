@@ -40,7 +40,7 @@ To run, execute following steps in Python3 environment:
 To run, execute following steps in Python3 environment:
 1. Download weights
 2. `pip install ultralytics`
-3. `yolo segment predict model=detection_nano_wheel.pt source=PATH/TO/IMAGE`
+3. `yolo segment predict model=best_segmentation_wheel.pt source=PATH/TO/IMAGE`
 
 Results can be seen in the [Yolo_Segmenttation file](Yolo_Segmentation.pdf)
 
