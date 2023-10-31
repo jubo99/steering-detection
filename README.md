@@ -26,13 +26,9 @@ The newest version of Yolo (You only look once) can also be used to detect steer
 - Weights in Yolov8_custom_weights folder
 
 To run, execute following steps in Python3 environment:
-Download weights
-'''
-pip install ultralytics
-'''
-'''
-yolo predict model=detection_nano_wheel.pt source=PATH/TO/IMAGE
-'''
+1. Download weights
+2. `pip install ultralytics`
+3. `yolo predict model=detection_nano_wheel.pt source=PATH/TO/IMAGE`
 
 *put image of results here*
 
@@ -43,8 +39,8 @@ yolo predict model=detection_nano_wheel.pt source=PATH/TO/IMAGE
 
 To run, execute following steps in Python3 environment:
 1. Download weights
-2. '''pip install ultralytics'''
-3. '''yolo segment predict model=detection_nano_wheel.pt source=PATH/TO/IMAGE'''
+2. `pip install ultralytics`
+3. `yolo segment predict model=detection_nano_wheel.pt source=PATH/TO/IMAGE`
 
 Results can be seen in the [Yolo_Segmenttation file](Yolo_Segmentation.pdf)
 
