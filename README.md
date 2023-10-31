@@ -14,7 +14,7 @@ Currently a view approaches using an external camera in combination with OpenCV 
 
 ### OpenCV
 In the [Repo](https://github.com/jubo99/steering-detection-frontal.git) template matching is being looked at. Template matching allows to search an image for a certain template (e.g. buttons on steering, markings).
-![Template matched on image](template_match1.png)
+![Template matched on image](TemplateMatching/template_match1.png)
 
 ### Yolo
 The newest version of Yolo (You only look once) can also be used to detect steering (angle). Therefor, it got trained with custom data to perform detection and segmentation task on images of steering wheels.
@@ -26,8 +26,8 @@ The newest version of Yolo (You only look once) can also be used to detect steer
 
 To run, execute following steps in Python3 environment:
 1. Download weights
-2. 'pip install ultralytics'
-3. 'yolo predict model=detection_nano_wheel.pt source=PATH/TO/IMAGE'
+2. '''pip install ultralytics'''
+3. '''yolo predict model=detection_nano_wheel.pt source=PATH/TO/IMAGE'''
 
 *put image of results here*
 
@@ -38,8 +38,8 @@ To run, execute following steps in Python3 environment:
 
 To run, execute following steps in Python3 environment:
 1. Download weights
-2. 'pip install ultralytics'
-3. 'yolo segment predict model=detection_nano_wheel.pt source=PATH/TO/IMAGE'
+2. '''pip install ultralytics'''
+3. '''yolo segment predict model=detection_nano_wheel.pt source=PATH/TO/IMAGE'''
 
 Results can be seen in the [Yolo_Segmenttation file](Yolo_Segmentation.pdf)
 
