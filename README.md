@@ -46,5 +46,5 @@ Results can be seen in the [Yolo_Segmenttation file](Yolo_Segmentation.pdf)
 
 Original Video             |  Processed Video (Angle is to be converted, ]0; 180])
 :-------------------------:|:-------------------------:
-![](Videos/inpy.mp4)  |  ![](Videos/outpy.mp4)
+[![Original Video] Videos/thumb_in.png](Videos/inpy.mp4)  |  [![Processed Video] Videos/thumb_out.png](Videos/outpy.mp4)
 
