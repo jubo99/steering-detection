@@ -44,3 +44,7 @@ To run, execute following steps in Python3 environment:
 
 Results can be seen in the [Yolo_Segmenttation file](Yolo_Segmentation.pdf)
 
+Original Video             |  Processed Video (Angle is to be converted, ]0; 180])
+:-------------------------:|:-------------------------:
+![](Videos/inpy.mp4)  |  ![](Videos/outpy.mp4)
+
