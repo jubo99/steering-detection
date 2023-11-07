@@ -3,8 +3,12 @@ This repo is an overview of approaches to detect steering angle using external o
 
 In [MA_Overview Presentation](MA_Overview_23_11_06.pptx) the current progress and future steps are displayed.
 
+*Requirements*:  [Software and Hardware Requirements](RequirementsSWHW.pdf) 
+
+*Timeline*:  [Timeline of Master's Thesis](Timeline_MA.pdf)
+
 ## Sensors
-- [ ] Interiuer-camera
+- [ ] Interieur-camera
 - [x] External camera
 - [ ] External LiDAR
 - [ ] Combination
@@ -20,7 +24,7 @@ In the [Repo](https://github.com/jubo99/steering-detection-frontal.git) template
 ![Template matched on image](TemplateMatching/template_match1.png)
 
 ### Yolo
-The newest version of Yolo (You only look once) can also be used to detect steering (angle). Therefor, it got trained with custom data to perform detection and segmentation task on images of steering wheels.
+The newest version of Yolo (You only look once) can also be used to detect steering (angle). Therefore, it got trained with custom data to perform detection and segmentation task on images of steering wheels.
 
 **Detection**
 - Trained on dataset with around 850 images
