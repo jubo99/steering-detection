@@ -60,3 +60,7 @@ Scan of steering wheel using TrueDepth camera of iPhone 13.
 Format: .ply (point cloud)
 
 
+!(Scan)[https://github.com/jubo99/steering-detection/assets/65410490/38b87ecc-5c7a-4a1c-8fb8-915f53174a28]
+
+
+
