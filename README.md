@@ -10,6 +10,7 @@ In [MA_Overview Presentation](MA_Overview_23_11_06.pptx) the current progress an
 ## Sensors
 - [ ] Interieur-camera
 - [x] External camera
+- [x] Structured-Light scanner
 - [ ] External LiDAR
 - [ ] Combination
 
