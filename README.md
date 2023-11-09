@@ -50,14 +50,24 @@ To run, execute following steps in Python3 environment:
 
 Results can be seen in the [Yolo_Segmenttation file](Yolo_Segmentation.pdf)
 
-Original Video             |  Processed Video (Angle is to be converted, ]0; 180])
-:-------------------------:|:-------------------------:
-[![Original Video] Videos/thumb_in.png](Videos/inpy.mp4)  |  [![Processed Video] Videos/thumb_out.png](Videos/outpy.mp4)
+**Original Video**
+
+https://github.com/jubo99/steering-detection/assets/65410490/e785a577-1cc6-4c5e-b588-1831d6116baf
+
+
+
+**Processed Video (Angle is to be converted, ]0; 180])**
+
+https://github.com/jubo99/steering-detection/assets/65410490/dd4d4ba4-d54b-42cc-af41-f23918d31072
+
+
 
 ### Structured-light 3D scanner (iPhone FaceID)
 
 Scan of steering wheel using TrueDepth camera of iPhone 13.
+
 Format: .ply (point cloud)
+
 
 https://github.com/jubo99/steering-detection/assets/65410490/38b87ecc-5c7a-4a1c-8fb8-915f53174a28
 
