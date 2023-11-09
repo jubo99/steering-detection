@@ -59,8 +59,8 @@ Original Video             |  Processed Video (Angle is to be converted, ]0; 180
 Scan of steering wheel using TrueDepth camera of iPhone 13.
 Format: .ply (point cloud)
 
+https://github.com/jubo99/steering-detection/assets/65410490/38b87ecc-5c7a-4a1c-8fb8-915f53174a28
 
-!(Scan)[https://github.com/jubo99/steering-detection/assets/65410490/38b87ecc-5c7a-4a1c-8fb8-915f53174a28]
 
 
 
