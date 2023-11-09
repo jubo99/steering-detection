@@ -54,3 +54,9 @@ Original Video             |  Processed Video (Angle is to be converted, ]0; 180
 :-------------------------:|:-------------------------:
 [![Original Video] Videos/thumb_in.png](Videos/inpy.mp4)  |  [![Processed Video] Videos/thumb_out.png](Videos/outpy.mp4)
 
+### Structured-light 3D scanner (iPhone FaceID)
+
+Scan of steering wheel using TrueDepth camera of iPhone 13.
+Format: .ply (point cloud)
+
+
