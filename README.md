@@ -81,5 +81,8 @@ https://github.com/jubo99/steering-detection/assets/65410490/38b87ecc-5c7a-4a1c-
 **PCA of Point cloud (Dimension reduction):**
 
 ![image](https://github.com/jubo99/steering-detection/assets/65410490/c6f60a73-4415-44c3-a502-3aea0315bd43)
+Downsampled Version:
+![image](https://github.com/jubo99/steering-detection/assets/65410490/940b29fa-5aa0-4a46-a5f8-d1adcc8739b0)
+
 
 
