@@ -73,7 +73,7 @@ Format: .ply (point cloud)
 https://github.com/jubo99/steering-detection/assets/65410490/38b87ecc-5c7a-4a1c-8fb8-915f53174a28
 
 
-**Cropped out and down sampled steering:**
+**Cropped out and sampled-down steering:**
 
 ![Down sampled and cropped steering](https://github.com/jubo99/steering-detection/assets/65410490/bc1b4d52-cd23-4f10-a7b7-02e8c16164b5)
 
