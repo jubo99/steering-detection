@@ -7,6 +7,8 @@ In [MA_Overview Presentation](MA_Overview_23_11_06.pptx) the current progress an
 
 *Timeline*:  [Timeline of Master's Thesis](Timeline_MA.pdf)
 
+*3D Sensors*:  [Overview of 3D Cameras](23_11_17_SensorOverview.pdf)
+
 ## Sensors
 - [ ] Interieur-camera
 - [x] External camera
